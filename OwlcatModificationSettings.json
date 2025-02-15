@@ -1,0 +1,65 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches": [
+		{
+			"Guid": "67819271767a9dd4fbfd4ae700befea0",
+			"Filename": "ClericClass.patch"
+    	},
+		{
+			"Guid": "1dd776b7b27dcd54ab3cedbbaf440cf3",
+			"Filename": "ArcanistArcaneReservoirResourceBuff.patch"
+    	},
+		{
+			"Guid": "cac948cbbe79b55459459dd6a8fe44ce",
+			"Filename": "ArcanistArcaneReservoirResource.patch"
+    	},
+		{
+			"Guid": "33e0c3a2a54c0e7489fa4ec4d79a581b",
+			"Filename": "ArcanistArcaneReservoirCLBuff.patch"
+    	},
+		{
+			"Guid": "ea01ddf2c1878354990000d1c7fc5ce4",
+			"Filename": "ArcanistArcaneReservoirCLPotentBuff.patch"
+    	},
+		{
+			"Guid": "db4b91a8a297c4247b13cfb6ea228bf3",
+			"Filename": "ArcanistArcaneReservoirDCBuff.patch"
+    	},
+		{
+			"Guid": "6fea993ed5782054a88fa54037a3e6dd",
+			"Filename": "ArcanistArcaneReservoirDCPotentBuff.patch"
+    	},
+		{
+			"Guid": "d67ddd98ad019854d926f3d6a4e681c5",
+			"Filename": "ArcanistConsumeSpellsResource.patch"
+    	},
+		{
+			"Guid": "be5d23755e7e501448193bbbd71c5256",
+			"Filename": "PowerfulChangeBuff.patch"
+    	},
+		{
+			"Guid": "d6ccf420a9b196e4cae334e0d3ea9e8b",
+			"Filename": "PowerfulChangeBuffGreater.patch"
+    	},
+		{
+			"Guid": "2231eb5d1a5a48d499a20fa5bde7a4e2",
+			"Filename": "ShareTransmutationBuff.patch"
+    	},
+		{
+			"Guid": "e0d4e42a41a0a24459a1bfc4f0a3ae4c",
+			"Filename": "ShareTransmutationBuffGreater.patch"
+    	},
+		{
+			"Guid": "2673ccdd6df742d42a8c94977c76a984",
+			"Filename": "EnhancePotion.patch"
+    	}
+	]
+}

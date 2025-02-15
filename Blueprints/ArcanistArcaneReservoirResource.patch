@@ -1,0 +1,29 @@
+{
+    "m_MaxAmount": {
+      "BaseValue": 3,
+      "IncreasedByLevel": true,
+      "m_Class": [
+        "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "!bp_ba34257984f4c41408ce1dc2004e342e",
+        "!bp_c75e0971973957d4dbad24bc7957e4fb",
+		"!bp_67819271767a9dd4fbfd4ae700befea0"
+      ],
+      "m_Archetypes": [
+        "!bp_6d2027b4eec590c41adb5caeb7bb026d",
+        "!bp_23a5d0ca607f6094097d509b2b1f4a10",
+		"!bp_0326be98b3ff479d8ef6eb3c33dd7d20"
+      ],
+      "LevelIncrease": 1,
+      "IncreasedByLevelStartPlusDivStep": false,
+      "StartingLevel": 0,
+      "StartingIncrease": 0,
+      "LevelStep": 0,
+      "PerStepIncrease": 0,
+      "MinClassLevelIncrease": 0,
+      "m_ClassDiv": [],
+      "m_ArchetypesDiv": [],
+      "OtherClassesModifier": 0.0,
+      "IncreasedByStat": false,
+      "ResourceBonusStat": "Unknown"
+    }
+}

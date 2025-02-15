@@ -1,0 +1,1482 @@
+{
+  "AssetId": "0326be98b3ff479d8ef6eb3c33dd7d20",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+    ],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "AssaultMage.Name",
+      "m_OwnerString": "0326be98-b3ff-479d-8ef6-eb3c33dd7d20",
+      "Shared": null
+    },
+    "LocalizedDescription": {
+      "m_Key": "AssaultMage.Description",
+      "m_OwnerString": "0326be98-b3ff-479d-8ef6-eb3c33dd7d20",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "ac67411e257c6594d932ccf64ef8a93d",
+      "fileid": 21300000
+    },
+    "m_ReplaceSpellbook": "!bp_383f1d4e663a4b2aa5bc6bb8c97f8a46",
+    "RemoveSpellbook": false,
+    "BuildChanging": true,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_42b781e4375d499383b2602d90661283"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_48525e5da45c9c243a343fc6545dbdb9"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_42b781e4375d499383b2602d90661283"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_42b781e4375d499383b2602d90661283"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_42b781e4375d499383b2602d90661283"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_42b781e4375d499383b2602d90661283"
+        ]
+      },
+	
+
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 17,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 19,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },	
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_20ffa67a25684ad3a9dec99acf618139"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_cee8f65448ce71c4b8b8ca13751dd8ea"
+        ]
+      },	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_e6c2a4b287ca91541843734f2161928a"
+        ]
+      },		  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_c0f8c4e513eb493408b8070a1de93fc0"
+        ]
+      },		  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_5451c9b8530f4b71aadcaea42bd54ab7"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_74c59090138e28f4687c8a3400030763"
+        ]
+      },  
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_fa3d3b2211a51994785d85e753f612d3"
+        ]
+      }, 
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_65cff8410a336654486c98fd3bacd8c5"
+        ]
+      },  	
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_ac57069b6bf8c904086171683992a92a"
+        ]
+      }, 
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_a23591cc77086494ba20880f87e73970"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_08ef60cbb8324d13a8524ba552fa579e"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_9a4287e181c450447af1a7565c1b260b"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_3130e3083845b7b4fa2ac5b6f1a1ae6e"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_90e54424d682d104ab36436bd527af09"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_5476fa6ac147a584aa886f1c232b8a87"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_8c3102c2ff3b69444b139a98521a4899"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_a8a385bf53ee3454593ce9054375a2ec"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_aa4f9fd22a07ddb49982500deaed88f9"
+        ]
+      },
+	  
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_9af6dc2697c8ef24eab8ce1c697b05c4"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_4a6fbe77a4a2ce24db0cd0b1e4d93db1"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_d09b20029e9abfe4480b356c92095623"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_ac57069b6bf8c904086171683992a92a"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_afd05ca5363036c44817c071189b67e1"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_dbec636d84482944f87435bd31522fcc"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_c27e6d2b0d33d42439f512c6d9a6a601"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_97e216dbb46ae3c4faef90cf6bbe6fd5"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_79042cb55f030614ea29956177977c52"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_f5db1cc7ad48d794f85252fa4a64157b"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_15e7da6645a7f3d41bdad7c8c4b9de1e"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_1e813eb8159b67a459b1c975027866e5"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_175d1577bb6c9a04baf88eec99c66334"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_3ea2215150a1c8a4a9bfed9d9023903e"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_06964d468fde1dc4aa71a92ea04d930d"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_7ad59ca648c14c0a92adec798d51eb6d"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_07a8059e18fd42eea61567cb11365a9d"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_0c17102f650d9044290922b0fad9132f"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_4c44724ffa8844f4d9bedb5bb27d144a"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_ca5274d057152fa45b7527cad0927840"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_fbf5d9ce931f47f3a0c818b3f8ef8414"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_a1de1e4f92195b442adb946f0e2b9d4e"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_f180e72e4a9cbaa4da8be9bc958132ef"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_2f5d1e705c7967546b72ad8218ccf99c"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_7f2b282626862e345935bbea5e66424b"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_cd26b9fa3f734461a0fcedc81cafaaac"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_ef7ece7bb5bb66a41b256976b27f424e"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_46fad72f54a33dc4692d3b62eca7bb78"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_85f3340093d144dd944fff9a9adfd2f2"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_8ad7fd39abea4722b39eb5a67d606a41"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_c101ad6879a94204a780506f7a554865"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_52135eada006e9045a848cd659749608"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_49926dc94aca16145b6a608277b6f31c"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_2ed9d8bf76412ba4a8afe38fa9925fca"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_f37a210a77d769c4ea2b23c22c07b83a"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_d439691f37d17804890bd9c263ae1e80"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_6a3be3df06f555d44a2b9dbfbcc2df23"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_13bdf8d542811ac4ca228a53aa108145"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_7a722c3e782aa5349a867c3516a2a4cf"
+        ]
+      },
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_29a333b7ccad3214ea3a51943fa0d8e9"
+        ]
+      },
+	  
+	  
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_c9022272c87bd66429176ce5c597989c"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_67f499218a0e22944abab6fe1c9eaeee"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_f95f4f3a10917114c82bcbebc4d0fd36"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_e71bd204a2579b1438ebdfbf75aeefae"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_94e2cd84bf3a8e04f8609fe502892f4f"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_8f4060852a4c8604290037365155662f"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_576933720c440aa4d8d42b0c54b77e80"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_270259f59c6ae6040babd5797feef2e2"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_e821c61b2711cea4cb993725b910e7e8"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_708fe8142ac107345967de54fca15942"
+        ]
+      },
+	  
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_ac8f1fcec10a9584c9e40a5cd8100830"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3"
+        ]
+      },
+	  
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 17,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 19,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+	  
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_74179cb9dbaba2b47b25535fe12fea1d"
+        ]
+      },
+	  
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_67f499218a0e22944abab6fe1c9eaeee"
+        ]
+      }, 
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_67f499218a0e22944abab6fe1c9eaeee"
+        ]
+      }, 
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_67f499218a0e22944abab6fe1c9eaeee"
+        ]
+      }, 
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_67f499218a0e22944abab6fe1c9eaeee"
+        ]
+      }, 
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_67f499218a0e22944abab6fe1c9eaeee"
+        ]
+      }, 
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_67f499218a0e22944abab6fe1c9eaeee"
+        ]
+      }, 
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_67f499218a0e22944abab6fe1c9eaeee"
+        ]
+      }, 
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_67f499218a0e22944abab6fe1c9eaeee"
+        ]
+      }, 
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_67f499218a0e22944abab6fe1c9eaeee"
+        ]
+      }, 
+	  
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_e71bd204a2579b1438ebdfbf75aeefae"
+        ]
+      }, 
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_e71bd204a2579b1438ebdfbf75aeefae"
+        ]
+      }, 
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_e71bd204a2579b1438ebdfbf75aeefae"
+        ]
+      }, 
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_e71bd204a2579b1438ebdfbf75aeefae"
+        ]
+      }, 
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_e71bd204a2579b1438ebdfbf75aeefae"
+        ]
+      }, 
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_e71bd204a2579b1438ebdfbf75aeefae"
+        ]
+      }, 
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_e71bd204a2579b1438ebdfbf75aeefae"
+        ]
+      }, 
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_e71bd204a2579b1438ebdfbf75aeefae"
+        ]
+      }, 
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_e71bd204a2579b1438ebdfbf75aeefae"
+        ]
+      }, 
+	  
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_f22ba62eb96de4546b9b2d0829744a4e"
+        ]
+      }, 
+	  
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }, 
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }, 
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }, 
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }, 
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }, 
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }, 
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }, 
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }, 
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }, 
+	
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_9ff65b68c09567e48af9b33848b23323"
+        ]
+      }, 	
+	  
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }, 
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }, 
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }, 
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }, 
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }, 
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }, 
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }, 
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }, 
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }, 
+	  
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_270259f59c6ae6040babd5797feef2e2"
+        ]
+      }, 
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_aa4f9fd22a07ddb49982500deaed88f9"
+        ]
+      }, 
+	  
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_c9022272c87bd66429176ce5c597989c"
+        ]
+      }, 
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_c9022272c87bd66429176ce5c597989c"
+        ]
+      }, 
+	  
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_0db9a2b013e8fc6409611c2a16ae56bc"
+        ]
+      }, 
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_4bea694e79a87cd4d8c14fb91578059e"
+        ]
+      }, 
+	  
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399"
+        ]
+      }, 
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399"
+        ]
+      }, 
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399"
+        ]
+      }, 
+      {
+        "Level": 17,
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399"
+        ]
+      }, 
+	  
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_a7662fc393334b0ca61d26d7715a66f1"
+        ]
+      }, 
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_9b02f77c96d6bba4daf9043eff876c76"
+        ]
+      }, 
+	  
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_ac8f1fcec10a9584c9e40a5cd8100830"
+        ]
+      }, 
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_ac8f1fcec10a9584c9e40a5cd8100830"
+        ]
+      }, 
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_ac8f1fcec10a9584c9e40a5cd8100830"
+        ]
+      }, 
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_ac8f1fcec10a9584c9e40a5cd8100830"
+        ]
+      }, 
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_ac8f1fcec10a9584c9e40a5cd8100830"
+        ]
+      }, 
+	  
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_94e2cd84bf3a8e04f8609fe502892f4f"
+        ]
+      }, 
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_94e2cd84bf3a8e04f8609fe502892f4f"
+        ]
+      }, 
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_94e2cd84bf3a8e04f8609fe502892f4f"
+        ]
+      }, 
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_94e2cd84bf3a8e04f8609fe502892f4f"
+        ]
+      }, 
+	  
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_4f1ac71e8ed95ae4c8612b53166106ef"
+        ]
+      }, 
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_95de611796547be489e527fae84abbd6"
+        ]
+      }, 
+	  
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3"
+        ]
+      }, 
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3"
+        ]
+      }, 
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3"
+        ]
+      }, 
+	  
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_64e83bc639626a34181edb6f6648e90b"
+        ]
+      }, 
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_aa4f9fd22a07ddb49982500deaed88f9"
+        ]
+      }, 
+	  
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_716e764d9d2147fd9a9e2681767c88ac"
+        ]
+      }, 
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_716e764d9d2147fd9a9e2681767c88ac"
+        ]
+      }, 
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_716e764d9d2147fd9a9e2681767c88ac"
+        ]
+      }, 
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_716e764d9d2147fd9a9e2681767c88ac"
+        ]
+      }, 
+      {
+        "Level": 19,
+        "m_Features": [
+          "!bp_716e764d9d2147fd9a9e2681767c88ac"
+        ]
+      }, 
+	  
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_6ad7e3699a6a9ad47a25b3464a305627"
+        ]
+      }, 
+	  
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_896040a4ae977124bb68ddeca398fcac"
+        ]
+      }, 
+	  
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_5f3cc7b9a46b880448275763fe70c0b0"
+        ]
+      }, 
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_5f3cc7b9a46b880448275763fe70c0b0"
+        ]
+      }, 
+      {
+        "Level": 17,
+        "m_Features": [
+          "!bp_5f3cc7b9a46b880448275763fe70c0b0"
+        ]
+      }, 
+	  
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_36837f00fc2f5d043847e37ba6af187c"
+        ]
+      }, 
+	  
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_202af59b918143a4ab7c33d72c8eb6d5"
+        ]
+      }, 
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_21fbafd5dc42d4d488c4d6caed46bc99"
+        ]
+      }, 
+
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_f6388946f9f472f4585591b80e9f2452"
+        ]
+      }, 
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_f6388946f9f472f4585591b80e9f2452"
+        ]
+      }, 	  
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_f6388946f9f472f4585591b80e9f2452"
+        ]
+      }, 
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_f6388946f9f472f4585591b80e9f2452"
+        ]
+      }, 
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_f6388946f9f472f4585591b80e9f2452"
+        ]
+      }, 
+	  
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_a33b99f95322d6741af83e9381b2391c"
+        ]
+      }, 
+	  
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_8c3102c2ff3b69444b139a98521a4899"
+        ]
+      }, 
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_8c3102c2ff3b69444b139a98521a4899"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_8c3102c2ff3b69444b139a98521a4899"
+        ]
+      },
+	  
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_b89373001e05f1f4aa9b9bb4f420c40f"
+        ]
+      },
+	  
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+      {
+        "Level": 19,
+        "m_Features": [
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+	  
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_5fcdb5b9dd41724439c6c4e4b6d27e81"
+        ]
+      },
+	  
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_75ba281feb2b96547a3bfb12ecaff052"
+        ]
+      },
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_e9ae7276574c170468937b617d993357"
+        ]
+      },
+	  
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_894d21ff523481d49a51ab1750fca3a0"
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_a9ffe3e08a080c8478bae321e70c7de6"
+        ]
+      },
+	  
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_cd96b7275c206da4899c69ae127ffda6"
+        ]
+      },
+	  
+      {
+        "Level": 19,
+        "m_Features": [
+          "!bp_ae177f17cfb45264291d4d7c2cb64671"
+        ]
+      },
+      {
+        "Level": 19,
+        "m_Features": [
+          "!bp_547df7e090287f447a7c0a4f6a7dad3e"
+        ]
+      },
+	  
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_d5378cb816b0c7a4cb47500e6ccf8702"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_2729af328ab46274394cedc3582d6e98"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_c94d764d2ce3cd14f892f7c00d9f3a70"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_55f516d7d1fc5294aba352a5a1c92786"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_f7be09207a174faca0a6f438fd5bb25a"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_789c7539ba659174db702e18d7c2d330"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_5b31af13868166d4c9bb452f19277f19"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_d85e0396d8f68e047b7b67a1290f8dbc"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_5c1c2ed7fe5f99649ab00605610b775b"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_3247396087a747148b17e1a0e37a3e67"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_c459fcee6baabd149ac79acb0cb1d40e"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_712cb204f96a492095a0c4e97ca06265"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_78f885c7718b479195b043e0eeaae919"
+        ]
+      },
+	  
+	  {
+        "Level": 1,
+        "m_Features": [
+          "!bp_55db1859bd72fd04f9bd3fe1f10e4cbb"
+        ]
+      },
+	  
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_5e01e267021bffe4e99ebee3fdc872d1"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_c4ed8d1a90c93754eacea361653a7d56"
+        ]
+      }
+	  
+	  
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_43281c3d7fe18cc4d91928395837cd1e"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": true,
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_cd635d5720937b044a354dba17abad8d",
+      "!bp_ce41e625eae914d4bad729f090e9001f",
+      "!bp_e8308a74821762e49bc3211358e81016",
+      "!bp_807763fd874989e4d96eb2d8e234139e",
+      "!bp_63caf94a780472b448f50d0bc183c38f"
+    ],
+    "ReplaceClassSkills": true,
+    "ClassSkills": [
+      "SkillMobility",
+      "SkillAthletics",
+      "SkillPersuasion",
+      "SkillThievery",
+      "SkillPerception",
+      "SkillStealth",
+      "SkillUseMagicDevice",
+      "SkillKnowledgeWorld",
+	  "SkillKnowledgeArcana",
+      "SkillLoreReligion",
+      "SkillLoreNature",	  
+	],
+    "ChangeCasterType": true,
+    "IsDivineCaster": true,
+    "IsArcaneCaster": true,
+    "AddSkillPoints": 4,
+    "OverrideAttributeRecommendations": true,
+    "RecommendedAttributes": ["Intelligence"],
+    "NotRecommendedAttributes": ["Strength"],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": "!bp_b3057560ffff3514299e8b93e7648a9d",
+    "m_FortitudeSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_ReflexSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_WillSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_Difficulty": 1,
+    "m_HiddenInUI": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

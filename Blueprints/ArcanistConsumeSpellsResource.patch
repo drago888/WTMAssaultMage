@@ -1,0 +1,23 @@
+{
+    "m_MaxAmount": {
+      "BaseValue": 0,
+      "IncreasedByLevel": false,
+      "m_Class": [
+        "!bp_52dbfd8505e22f84fad8d702611f60b7",
+		"!bp_67819271767a9dd4fbfd4ae700befea0"
+      ],
+      "m_Archetypes": ["!bp_0326be98b3ff479d8ef6eb3c33dd7d20"],
+      "LevelIncrease": 0,
+      "IncreasedByLevelStartPlusDivStep": false,
+      "StartingLevel": 0,
+      "StartingIncrease": 0,
+      "LevelStep": 0,
+      "PerStepIncrease": 0,
+      "MinClassLevelIncrease": 0,
+      "m_ClassDiv": [],
+      "m_ArchetypesDiv": [],
+      "OtherClassesModifier": 0.0,
+      "IncreasedByStat": true,
+      "ResourceBonusStat": "Charisma"
+    },
+}

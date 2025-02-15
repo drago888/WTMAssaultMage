@@ -1,0 +1,71 @@
+{
+	"_#ArrayMergeSettings":  "Merge",
+	"Components" : [  
+      {
+        "$type": "1c2eac83b528cef478121194c8c7f502, AddAbilityUseTrigger",
+        "m_Flags": 0,
+        "name": "$AddAbilityUseTrigger$064d5626-fc52-4f5d-bd90-59fbb7f0c8ae",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$501344fd-9f1b-4188-8ea5-3ca782294a28"
+            }
+          ]
+        },
+        "ActionsOnAllTargets": false,
+        "AfterCast": true,
+        "ActionsOnTarget": false,
+        "FromSpellbook": true,
+        "m_Spellbooks": [
+          "!bp_33903fe5c4abeaa45bc249adb9d98848",
+          "!bp_67b574abd845f3e42983ea6eb53a6f90",
+          "!bp_b242f991107095d41ae129f46ed5d97a",
+          "!bp_d09794fb6f93e4a40929a965b434070d",
+          "!bp_3ed7e38dc8134af28e1a2b105f74fb7b",
+		  "!bp_383f1d4e663a4b2aa5bc6bb8c97f8a46"
+        ],
+        "ForOneSpell": false,
+        "m_Ability": null,
+        "ForMultipleSpells": false,
+        "Abilities": [],
+        "MinSpellLevel": false,
+        "MinSpellLevelLimit": 0,
+        "ExactSpellLevel": false,
+        "ExactSpellLevelLimit": 0,
+        "CheckAbilityType": false,
+        "Type": "Spell",
+        "CheckDescriptor": false,
+        "SpellDescriptor": {
+          "m_IntValue": 0
+        },
+        "CheckRange": false,
+        "Range": "Touch"
+      },
+      {
+        "$type": "65c8dedf73cc0614298f8f2281d2a0e0, AddCasterLevelForSpellbook",
+        "m_Flags": 0,
+        "name": "$AddCasterLevelForSpellbook$350bed3a-31b2-4c8f-bf34-b68ca668288e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Bonus": 1,
+        "Descriptor": "UntypedStackable",
+        "m_Spellbooks": [
+          "!bp_67b574abd845f3e42983ea6eb53a6f90",
+          "!bp_b242f991107095d41ae129f46ed5d97a",
+          "!bp_33903fe5c4abeaa45bc249adb9d98848",
+          "!bp_d09794fb6f93e4a40929a965b434070d",
+          "!bp_3ed7e38dc8134af28e1a2b105f74fb7b",
+		  "!bp_383f1d4e663a4b2aa5bc6bb8c97f8a46"
+        ]
+      }
+	]
+}

@@ -1,0 +1,31 @@
+{
+   "strings": 
+   [
+	{
+		"Key":"AssaultMage.Name",
+		"Value":"Assault Mage"
+	},
+	{
+		"Key":"AssaultMage.Description",
+		"Value":"An armored wizard who had learnt to fight in heavy armor and attune his armor to his magical energies."
+	},
+	
+	{
+		"Key":"TrainedToLast.Name",
+		"Value":"Trained to Last"
+	},
+	{
+		"Key":"TrainedToLast.Description",
+		"Value":"Trained in harsh environment to ensure that will last until worst had passed. +4 to max HP"
+	},
+	
+	{
+		"Key":"MentalAcuity.Name",
+		"Value":"Mental Acuity"
+	},
+	{
+		"Key":"MentalAcuity.Description",
+		"Value":"Your exploration into the secret mysteries of the world have granted you a preternatural understanding of all things - and you just keep getting smarter. You gain a +1 inherent bonus to Intelligence upon taking this revelation and another at every third level gained thereafter"
+	},
+   ]
+}

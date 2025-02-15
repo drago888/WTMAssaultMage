@@ -1,0 +1,58 @@
+{
+  "AssetId": "20ffa67a25684ad3a9dec99acf618139",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+    ],
+    "Components": [
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "name": "$AddStatBonus$67fff92a-670c-4752-bc82-57a468bb4126",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "HitPoints",
+        "Value": 4,
+        "ScaleByBasicAttackBonus": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "TrainedToLast.Name",
+      "m_OwnerString": "20ffa67a25684ad3a9dec99acf618139",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "TrainedToLast.Description",
+      "m_OwnerString": "20ffa67a25684ad3a9dec99acf618139",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "3afbc6ddae73d5b43a958235da2c2266",
+      "fileid": 21300000
+    },
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": true,
+    "DlcType": "None",
+    "Groups": [
+      "Feat"
+    ],
+    "Ranks": 20,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

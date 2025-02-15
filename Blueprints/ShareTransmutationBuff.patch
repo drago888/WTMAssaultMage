@@ -1,0 +1,58 @@
+{
+	"_#ArrayMergeSettings":  "Merge",
+	"Components" : [  
+      {
+        "$type": "05fab0d4998390a4cbf88da0ab1e4123, AddMechanicsFeature",
+        "m_Flags": 0,
+        "name": "$AddMechanicsFeature$d9637fe0-1d0a-4b69-8386-42309b02c6b5",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "ShareTransmutation"
+      },
+      {
+        "$type": "1c2eac83b528cef478121194c8c7f502, AddAbilityUseTrigger",
+        "m_Flags": 0,
+        "name": "$AddAbilityUseTrigger$c9b2ab37-520c-40dc-8419-0499e5ea4033",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$74288959-6434-4a2d-b0b6-f356c9b5f1c0"
+            }
+          ]
+        },
+        "ActionsOnAllTargets": false,
+        "AfterCast": true,
+        "ActionsOnTarget": false,
+        "FromSpellbook": true,
+        "m_Spellbooks": [
+          "!bp_33903fe5c4abeaa45bc249adb9d98848",
+		  "!bp_383f1d4e663a4b2aa5bc6bb8c97f8a46"
+        ],
+        "ForOneSpell": false,
+        "m_Ability": null,
+        "ForMultipleSpells": false,
+        "Abilities": [],
+        "MinSpellLevel": false,
+        "MinSpellLevelLimit": 0,
+        "ExactSpellLevel": false,
+        "ExactSpellLevelLimit": 0,
+        "CheckAbilityType": false,
+        "Type": "Spell",
+        "CheckDescriptor": false,
+        "SpellDescriptor": {
+          "m_IntValue": 0
+        },
+        "CheckRange": false,
+        "Range": "Touch"
+      }
+	]
+}

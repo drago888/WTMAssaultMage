@@ -1,0 +1,41 @@
+{
+  "AssetId": "383f1d4e663a4b2aa5bc6bb8c97f8a46",
+  "Data": {
+    "$type": "a42bdead3c333d744a3f0354bbe6c27c, BlueprintSpellbook",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "Name": {
+      "m_Key": "AssaultMage.Name",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "IsMythic": false,
+    "m_SpellsPerDay": "!bp_b30248a234a7445cb985e0d8af37741c",
+    "m_SpellsKnown": null,
+    "m_SpellSlots": "!bp_0771f557b3f848f3b9e7278568ab5225",
+    "m_SpellList": "!bp_71a53fa8f7b340a49d8f3df586230fd6",
+    "m_MythicSpellList": null,
+    "m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0",
+    "CastingAttribute": "Intelligence",
+    "Spontaneous": false,
+    "SpellsPerLevel": 3,
+    "AllSpellsKnown": false,
+    "CantripsType": "Cantrips",
+    "CasterLevelModifier": 0,
+    "CanCopyScrolls": true,
+    "IsArcane": true,
+    "IsArcanist": false,
+    "HasSpecialSpellList": true,
+    "SpecialSpellListName": {
+      "m_Key": "AssaultMage.Name",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    }
+  }
+}

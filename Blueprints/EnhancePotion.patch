@@ -1,0 +1,23 @@
+{
+	"_#ArrayMergeSettings":  "Merge",
+	"Components" : [
+	  {
+        "$type": "de53b583370fb9c468866fb75c9e719a, EnhancePotion",
+        "name": "$EnhancePotion$a8b97712-de4b-4ac9-97cb-83f0d72388d4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Classes": [
+          "!bp_0937bec61c0dabc468428f496580c721",
+          "!bp_299aa766dee3cbf4790da4efb8c72484",
+		  "!bp_67819271767a9dd4fbfd4ae700befea0"
+        ],
+        "m_Archetypes": [
+          "!bp_b4f5741d42c4cb04abf5ab3fe33f6fc5",
+		  "!bp_0326be98b3ff479d8ef6eb3c33dd7d20"
+        ]
+      }
+	]
+}
