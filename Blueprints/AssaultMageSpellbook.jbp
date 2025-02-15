@@ -24,11 +24,11 @@
     "Spontaneous": false,
     "SpellsPerLevel": 3,
     "AllSpellsKnown": false,
-    "CantripsType": "Cantrips",
+    "CantripsType": "Orisions",
     "CasterLevelModifier": 0,
     "CanCopyScrolls": true,
     "IsArcane": true,
-    "IsArcanist": false,
+    "IsArcanist": true,
     "HasSpecialSpellList": true,
     "SpecialSpellListName": {
       "m_Key": "AssaultMage.Name",

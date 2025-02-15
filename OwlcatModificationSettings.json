@@ -60,6 +60,14 @@
 		{
 			"Guid": "2673ccdd6df742d42a8c94977c76a984",
 			"Filename": "EnhancePotion.patch"
+    	},
+		{
+			"Guid": "e1fbb0e0e610a3a4d91e5e5284587939",
+			"Filename": "AngelIncorporateSpellbook.patch"
+    	},
+		{
+			"Guid": "3f16e9caf7c683c40884c7c455ed26af",
+			"Filename": "LichIncorporateSpellbookFeature.patch"
     	}
 	]
 }
