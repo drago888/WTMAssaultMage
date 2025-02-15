@@ -1,0 +1,19 @@
+{
+	"_#ArrayMergeSettings":  "Merge",
+	"m_Classes" : [
+      {
+        "m_Class": "!bp_ba34257984f4c41408ce1dc2004e342e",
+        "AdditionalLevel": 0
+      },
+      {
+        "m_Class": "!bp_67819271767a9dd4fbfd4ae700befea0",
+        "AdditionalLevel": 0
+      }
+	],
+	"m_Archetypes": [
+		{
+			"m_Archetype": "!bp_0326be98b3ff479d8ef6eb3c33dd7d20",
+			"AdditionalLevel": 0
+		}
+	]
+}

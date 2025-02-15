@@ -68,6 +68,26 @@
 		{
 			"Guid": "3f16e9caf7c683c40884c7c455ed26af",
 			"Filename": "LichIncorporateSpellbookFeature.patch"
+    	},
+		{
+			"Guid": "0933849149cfc9244ac05d6a5b57fd80",
+			"Filename": "SpecialisationSchoolUniversalistProgression.patch"
+    	},
+		{
+			"Guid": "42fd5b455f986f94293b15b13f38d6a5",
+			"Filename": "UniversalistSchoolGreaterResource.patch"
+    	},
+		{
+			"Guid": "967de73c1def41f79678bbe3116f2770",
+			"Filename": "SpellMasterFocusedSpellsBuff.patch"
+    	},
+		{
+			"Guid": "32947324b3054fdea55092735de9c82c",
+			"Filename": "SpellMasterFocusedSpellsResource.patch"
+    	},
+		{
+			"Guid": "effc3e386331f864e9e06d19dc218b37",
+			"Filename": "ArcanePoolResourse.patch"
     	}
 	]
 }

@@ -1,0 +1,115 @@
+{
+	"_#ArrayMergeSettings":  "Merge",
+	"Components" : [
+      {
+        "$type": "1c2eac83b528cef478121194c8c7f502, AddAbilityUseTrigger",
+        "m_Flags": 0,
+        "name": "$AddAbilityUseTrigger$2360c493-2d7f-43b7-88ea-c6a1d3099d12",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$1306f41b-2819-4ef8-82cc-3d849ff5215f"
+            }
+          ]
+        },
+        "ActionsOnAllTargets": false,
+        "AfterCast": true,
+        "ActionsOnTarget": false,
+        "FromSpellbook": false,
+        "m_Spellbooks": [],
+        "ForOneSpell": false,
+        "m_Ability": null,
+        "ForMultipleSpells": false,
+        "Abilities": [],
+        "MinSpellLevel": false,
+        "MinSpellLevelLimit": 0,
+        "ExactSpellLevel": false,
+        "ExactSpellLevelLimit": 0,
+        "CheckAbilityType": true,
+        "Type": "Spell",
+        "CheckDescriptor": false,
+        "SpellDescriptor": {
+          "m_IntValue": 0
+        },
+        "CheckAoE": false,
+        "IsAoE": false,
+        "CheckSpellSchool": false,
+        "IsSpellSchool": "None",
+        "CheckRange": false,
+        "Range": "Touch",
+        "CheckSourceItemType": false,
+        "SourceItemTypeExclude": false,
+        "SourceItemType": 0,
+        "UseCastRule": false,
+        "OnlyOnce": false,
+        "OncePerContext": false,
+        "DisableForStickyTouchCasts": false
+      },
+      {
+        "$type": "65c8dedf73cc0614298f8f2281d2a0e0, AddCasterLevelForSpellbook",
+        "m_Flags": 0,
+        "name": "$AddCasterLevelForSpellbook$14ad43d5-f11f-4c3c-8b36-c0a5792ca813",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Bonus": 4,
+        "Descriptor": "UntypedStackable",
+        "m_Spellbooks": [
+          "!bp_b897fe0947e4b804082b1a687c21e6e2",
+          "!bp_6091d66a2a9876b4891b989804cfbcb6",
+          "!bp_027d37761f3804042afa96fe3e9086cc",
+          "!bp_015658ac45811b843b036e4ccc96c772",
+          "!bp_d0313b3110357b14ebd3102c2d4cde20",
+          "!bp_33903fe5c4abeaa45bc249adb9d98848",
+          "!bp_b21b9f5e2831c2549a782d8128fb905b",
+          "!bp_bc04fc157a8801d41b877ad0d9af03dd",
+          "!bp_0b00eedc8dc8421ca277ddc4c44c60b1",
+          "!bp_e19484252c2f80e4a9439b3681b20f00",
+          "!bp_4673d19a0cf2fab4f885cc4d1353da33",
+          "!bp_cb0be5988031ebe4c947086a1170eacc",
+          "!bp_673d39f7da699aa408cdda6282e7dcc0",
+          "!bp_e3daa889c72982e45a026f62cc84937d",
+          "!bp_fc78193f68150454483a7eea8b605b71",
+          "!bp_67b574abd845f3e42983ea6eb53a6f90",
+          "!bp_e2763fbfdb91920458c4686c3e7ed085",
+          "!bp_4f96fb20f06b7494a8b2bd731a70af6c",
+          "!bp_cb9d75e5cb08572439a6b5cd562297a5",
+          "!bp_d09794fb6f93e4a40929a965b434070d",
+          "!bp_c8c471f1f9889e1408347d3c7987b4f1",
+          "!bp_885cd422aa357e2409146b38bb1fec51",
+          "!bp_57fab75111f377248810ece84193a5a5",
+          "!bp_fb4e216b322d3924e9c7041016b46999",
+          "!bp_08a80074263809c4b9616aac05af90ae",
+          "!bp_8d904686a43f4eaeb451798e9088b9b9",
+          "!bp_587066af76a74f47a904bb017697ba08",
+          "!bp_5d8d04e76dff6c5439de99af0d57be63",
+          "!bp_12bfcf91d5416b047a2a9110ff8968c5",
+          "!bp_7425972fc2e2f294a8f8b56568337d00",
+          "!bp_3ed7e38dc8134af28e1a2b105f74fb7b",
+          "!bp_6c03364712b415941a98f74522a81273",
+          "!bp_bce4989b070ce924b986bf346f59e885",
+          "!bp_6886f046087f4cb68f8cbdfdfedbd3d9",
+          "!bp_762858a4a28eaaf43aa00f50441d7027",
+          "!bp_cc2052732997b654e93eac268a39a0a9",
+          "!bp_44f16931dabdff643bfe2a48138e769f",
+          "!bp_8f159d2f22ced074ea32995eb5a446a0",
+          "!bp_b3db3766a4b605040b366265e2af0e50",
+          "!bp_682545e11e5306c45b14ca78bcbe3e62",
+          "!bp_2ff51e0531ed8e545ab4cb35c32d40f4",
+          "!bp_b242f991107095d41ae129f46ed5d97a",
+          "!bp_7d7d51be2948d2544b3c2e1596fd7603",
+          "!bp_dd04f9239f655ea438976742728e4909",
+          "!bp_5a38c9ac8607890409fcb8f6342da6f4",
+		  "!bp_383f1d4e663a4b2aa5bc6bb8c97f8a46"
+        ]
+      }
+	]
+}

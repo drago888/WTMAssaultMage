@@ -1,0 +1,65 @@
+{
+  "AssetId": "12befe94d9cd43fa96de8a38431859ae",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$BonusAttacksOfOpportunity$b348c4d7-7011-41a3-918e-6f361907262c",
+      "$CannyDefensePermanent$ec3c8e12-a15c-4137-b263-3611a5281760",
+      "$RecalculateOnStatChange$9865f183-e01c-4eeb-9143-92455a24271e"
+    ],
+    "Components": [
+      {
+        "$type": "334a10f6f3fdd354384caac5a94b5149, CannyDefensePermanent",
+        "name": "$CannyDefensePermanent$ec3c8e12-a15c-4137-b263-3611a5281760",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0",
+        "RequiresKensai": true,
+        "m_ChosenWeaponBlueprint": "!bp_c0b4ec0175e3ff940a45fc21f318a39a"
+      },
+      {
+        "$type": "018ffdf3c815bfa4189c0fc4cf1c9b19, RecalculateOnStatChange",
+        "name": "$RecalculateOnStatChange$9865f183-e01c-4eeb-9143-92455a24271e",
+        "m_Overrides": [],
+        "UseKineticistMainStat": false,
+        "Stat": "Intelligence"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "5dffbfcb-2612-41b5-81a4-0adf8c39e781",
+      "m_OwnerString": "f58e19256746efa419e640175d4e21ad",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Magus/Archetypes/SwordSaint/SwordSaintCannyDefense_m_DisplayName.json",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "cbb1a1ed-16a0-4853-a351-3fbf920ece3c",
+      "m_OwnerString": "f58e19256746efa419e640175d4e21ad",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Magus/Archetypes/SwordSaint/SwordSaintCannyDefense_m_Description.json",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "d70eceda5f3a35646b828323eb30f065",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": true,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

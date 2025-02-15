@@ -21,7 +21,7 @@
     "m_MythicSpellList": null,
     "m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0",
     "CastingAttribute": "Intelligence",
-    "Spontaneous": false,
+    "Spontaneous": true,
     "SpellsPerLevel": 3,
     "AllSpellsKnown": false,
     "CantripsType": "Orisions",
