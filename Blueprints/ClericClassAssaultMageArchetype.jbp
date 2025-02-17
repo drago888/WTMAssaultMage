@@ -1513,7 +1513,39 @@
         "m_Features": [
           "!bp_3cbe3e308342b3247ba2f4fbaf5e6307"
         ]
-      }		  
+      },
+
+	  {
+        "Level": 1,
+        "m_Features": [
+          "!bp_2fb5e65bd57caa943b45ee32d825e9b9"
+        ]
+      },
+	  {
+        "Level": 5,
+        "m_Features": [
+          "!bp_88fe74c940ce41a0ac62b9b22774be3f"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_88fe74c940ce41a0ac62b9b22774be3f"
+        ]
+      },
+	  {
+        "Level": 15,
+        "m_Features": [
+          "!bp_88fe74c940ce41a0ac62b9b22774be3f"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_88fe74c940ce41a0ac62b9b22774be3f"
+        ]
+      }
+	  
 	  
     ],
     "RemoveFeatures": [

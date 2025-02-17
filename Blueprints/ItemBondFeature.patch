@@ -1,0 +1,29 @@
+{
+	"_#ArrayMergeSettings":  "Merge",
+	"Components" : [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$50ff097f-1f9b-4dcb-bd63-32abcc8e6583",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_e5dcf71e02e08fc448d9745653845df1"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$993d1b0e-96a7-4ab0-b2b8-002bfc3bc5d8",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_fbc6de6f8be4fad47b8e3ec148de98c2",
+        "Amount": 1,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      }
+	]
+}

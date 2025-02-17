@@ -1,0 +1,44 @@
+{
+	"_#ArrayMergeSettings":  "Merge",
+	"Components" : [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$a8a5ff6f-c2e1-4d47-901d-9f1e4b58ea9b",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_cf7c4eaa2b47d7242b2c734df567cefb"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$e43d704e-232a-4b85-9fab-d40b5c105b68",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_45a4607686d96a1498891b3286121780",
+        "Level": 9
+      },
+      {
+        "$type": "682c71964f9bf3d4d97232b9016eafc8, PrerequisiteArchetypeLevel",
+        "name": "$PrerequisiteArchetypeLevel$4be55132-ece3-4543-a58c-d3220de17df6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0",
+        "m_Archetype": "!bp_0326be98b3ff479d8ef6eb3c33dd7d20",
+        "Level": 9
+      }
+	]
+}

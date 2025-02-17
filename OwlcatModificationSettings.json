@@ -88,6 +88,19 @@
 		{
 			"Guid": "effc3e386331f864e9e06d19dc218b37",
 			"Filename": "ArcanePoolResourse.patch"
+    	},
+		{
+			"Guid": "cb6916027e3c25e4185de068249254dc",
+			"Filename": "DimensionStrikeFeature.patch"
+    	},
+		{
+			"Guid": "e5dcf71e02e08fc448d9745653845df1",
+			"Filename": "ItemBondAbility.patch"
+    	},
+		{
+			"Guid": "2fb5e65bd57caa943b45ee32d825e9b9",
+			"Filename": "ItemBondFeature.patch"
     	}
+	
 	]
 }

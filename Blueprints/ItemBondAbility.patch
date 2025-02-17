@@ -1,0 +1,45 @@
+{
+	"_#ArrayMergeSettings":  "Merge",
+	"Components" : [
+      {
+        "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
+        "m_Flags": 0,
+        "name": "$AbilityResourceLogic$cd7b5ec6-4884-4a81-90b3-4183d922e03c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_RequiredResource": "!bp_fbc6de6f8be4fad47b8e3ec148de98c2",
+        "m_IsSpendResource": true,
+        "CostIsCustom": false,
+        "Amount": 1,
+        "ResourceCostIncreasingFacts": [],
+        "ResourceCostDecreasingFacts": []
+      },
+      {
+        "$type": "951800ae8e0d4bd1be1e2d5561c1b095, AbilityRestoreSpellSlot",
+        "m_Flags": 0,
+        "name": "$AbilityRestoreSpellSlot$315be1da-597c-40bb-838b-f1bdf4955cde",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "AnySpellLevel": true,
+        "SpellLevel": 0,
+        "CheckSpellBook": true,
+        "SpellbooksReference": [
+          "!bp_5a38c9ac8607890409fcb8f6342da6f4",
+          "!bp_58b15cc36ceda8942a7a29aafa755452",
+          "!bp_cbc30bcc7b8adec48a53a6540f5596ae",
+          "!bp_9e4b96d7b02f8c8498964aeee6eaef9b",
+          "!bp_05b105ddee654db4fb1547ba48ffa160",
+          "!bp_74b87962a97d56c4583979216631eb4c",
+          "!bp_97cd3941ce333ce46ae09436287ed699",
+          "!bp_5785f40e7b1bfc94ea078e7156aa9711",
+		  "!bp_383f1d4e663a4b2aa5bc6bb8c97f8a46"
+        ]
+      }
+	]
+}
